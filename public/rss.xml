@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>평택 화양 서희스타힐스</title>
+    <link>https://www.lotte-castl.co.kr/</link>
+    <description>평택 화양 서희스타힐스ㅣ브랜드소개ㅣ사업안내ㅣ입지안내ㅣ프리미엄ㅣ단지배치도ㅣ호수배치도ㅣ커뮤니티ㅣ59Aㅣ59Bㅣ84Aㅣ관심고객등록</description>
+    <language>ko-KR</language>
+    <atom:link href="https://www.lotte-castl.co.kr/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- 브랜드소개 -->
+    <item>
+      <title>브랜드 소개</title>
+      <link>https://www.lotte-castl.co.kr/Brand/intro</link>
+      <guid isPermaLink="true">https://www.lotte-castl.co.kr/Brand/intro</guid>
+      <description><![CDATA[평택 화양 서희스타힐스의 브랜드 가치와 주거 철학을 소개합니다.]]></description>
+      <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 사업개요 -->
+    <item>
+      <title>사업안내</title>
+      <link>https://www.lotte-castl.co.kr/BusinessGuide/intro</link>
+      <guid isPermaLink="true">https://www.lotte-castl.co.kr/BusinessGuide/intro</guid>
+      <description><![CDATA[평택 화양 서희스타힐스의 위치, 규모, 주택형 구성 등 사업 개요를 확인하세요.]]></description>
+      <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 입지환경 -->
+    <item>
+      <title>입지안내</title>
+      <link>https://www.lotte-castl.co.kr/LocationEnvironment/intro</link>
+      <guid isPermaLink="true">https://www.lotte-castl.co.kr/LocationEnvironment/intro</guid>
+      <description><![CDATA[평택 화양지구 중심 입지와 교통망, 생활 인프라를 확인하세요.]]></description>
+      <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>프리미엄</title>
+      <link>https://www.lotte-castl.co.kr/LocationEnvironment/primium</link>
+      <guid isPermaLink="true">https://www.lotte-castl.co.kr/LocationEnvironment/primium</guid>
+      <description><![CDATA[평택 화양 서희스타힐스의 입지, 생활환경, 브랜드 가치를 소개합니다.]]></description>
+      <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 단지안내 -->
+    <item>
+      <title>단지 배치도</title>
+      <link>https://www.lotte-castl.co.kr/ComplexGuide/intro</link>
+      <guid isPermaLink="true">https://www.lotte-castl.co.kr/ComplexGuide/intro</guid>
+      <description><![CDATA[평택 화양 서희스타힐스의 동별 배치와 단지 구성을 확인하세요.]]></description>
+      <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>호수 배치도</title>
+      <link>https://www.lotte-castl.co.kr/ComplexGuide/detailintro</link>
+      <guid isPermaLink="true">https://www.lotte-castl.co.kr/ComplexGuide/detailintro</guid>
+      <description><![CDATA[평택 화양 서희스타힐스의 동·호수 배치와 세대 구성을 확인하세요.]]></description>
+      <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>커뮤니티</title>
+      <link>https://www.lotte-castl.co.kr/ComplexGuide/community</link>
+      <guid isPermaLink="true">https://www.lotte-castl.co.kr/ComplexGuide/community</guid>
+      <description><![CDATA[평택 화양 서희스타힐스의 커뮤니티 시설과 생활 편의 공간을 소개합니다.]]></description>
+      <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 세대안내 -->
+    <item>
+      <title>59A</title>
+      <link>https://www.lotte-castl.co.kr/FloorPlan/59A</link>
+      <guid isPermaLink="true">https://www.lotte-castl.co.kr/FloorPlan/59A</guid>
+      <description><![CDATA[전용 59A 타입의 평면 구성과 공간 설계를 확인하세요.]]></description>
+      <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>59B</title>
+      <link>https://www.lotte-castl.co.kr/FloorPlan/59B</link>
+      <guid isPermaLink="true">https://www.lotte-castl.co.kr/FloorPlan/59B</guid>
+      <description><![CDATA[전용 59B 타입의 평면 구성과 공간 활용을 확인하세요.]]></description>
+      <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>84A</title>
+      <link>https://www.lotte-castl.co.kr/FloorPlan/84A</link>
+      <guid isPermaLink="true">https://www.lotte-castl.co.kr/FloorPlan/84A</guid>
+      <description><![CDATA[전용 84A 타입의 평면 구성과 주거 공간 설계를 확인하세요.]]></description>
+      <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
+    </item>
+
+    <!-- 홍보센터 -->
+    <item>
+      <title>관심고객등록</title>
+      <link>https://www.lotte-castl.co.kr/Promotion/Customer</link>
+      <guid isPermaLink="true">https://www.lotte-castl.co.kr/Promotion/Customer</guid>
+      <description><![CDATA[평택 화양 서희스타힐스의 분양 정보와 최신 소식을 가장 먼저 받아보세요.]]></description>
+      <pubDate>Tue, 11 Nov 2025 14:00:00 +0900</pubDate>
+    </item>
+
+  </channel>
+</rss>
