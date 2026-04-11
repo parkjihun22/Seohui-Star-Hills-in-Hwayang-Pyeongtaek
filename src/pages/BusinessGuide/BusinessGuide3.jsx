@@ -72,7 +72,7 @@ const BusinessGuide2 = () => {
 <meta name="robots" content="index,follow" />
 <link
   rel="canonical"
-  href="https://www.lotte-castl.co.kr/BusinessGuide/documents"
+  href="https://www.leecols.kr/BusinessGuide/documents"
 />
 
 {/* Open Graph */}
@@ -83,8 +83,8 @@ const BusinessGuide2 = () => {
   property="og:description"
   content="평택 화양 서희스타힐스 계약서류 안내. 계약 체결을 위한 필수 제출 서류와 준비 절차를 확인하세요."
 />
-<meta property="og:url" content="https://www.lotte-castl.co.kr/BusinessGuide/documents" />
-<meta property="og:image" content="https://www.lotte-castl.co.kr/Main1.png" />
+<meta property="og:url" content="https://www.leecols.kr/BusinessGuide/documents" />
+<meta property="og:image" content="https://www.leecols.kr/Main1.png" />
 </Helmet>
 
 <Header isChanged={isScroll} />

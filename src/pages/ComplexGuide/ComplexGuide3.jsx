@@ -56,7 +56,7 @@ const ComplexGuide3 = () => {
     name="description"
     content="평택 화양 서희스타힐스 커뮤니티 안내. 단지 내 다양한 커뮤니티 시설과 입주민을 위한 생활 편의 공간을 확인하세요."
   />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/ComplexGuide/community" />
+  <link rel="canonical" href="https://www.leecols.kr/ComplexGuide/community" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -67,8 +67,8 @@ const ComplexGuide3 = () => {
     property="og:description"
     content="평택 화양 서희스타힐스 커뮤니티 페이지에서 단지 내 다양한 편의시설과 생활 공간을 확인하세요."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/ComplexGuide/community" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/img/og/complex.jpg" />
+  <meta property="og:url" content="https://www.leecols.kr/ComplexGuide/community" />
+  <meta property="og:image" content="https://www.leecols.kr/img/og/complex.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />

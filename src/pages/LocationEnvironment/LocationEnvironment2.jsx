@@ -51,7 +51,7 @@ const LocationEnvironment1 = () => {
     name="description"
     content="평택 화양 서희스타힐스 프리미엄 안내. 평택 화양지구 중심 입지와 생활 인프라, 교통 환경, 브랜드 주거 가치를 확인하세요."
   />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/LocationEnvironment/primium" />
+  <link rel="canonical" href="https://www.leecols.kr/LocationEnvironment/primium" />
   <meta name="robots" content="index,follow" />
 </Helmet>
 

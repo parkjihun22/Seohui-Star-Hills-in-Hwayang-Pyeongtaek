@@ -54,7 +54,7 @@ const Emodel = () => {
     content="평택 화양 서희스타힐스 E-모델하우스 안내. 온라인으로 세대 내부 공간과 평면 구성을 확인하고 모델하우스 정보를 편리하게 살펴보세요."
   />
   <meta name="robots" content="index,follow" />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/FloorPlan/Emodel" />
+  <link rel="canonical" href="https://www.leecols.kr/FloorPlan/Emodel" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
@@ -64,8 +64,8 @@ const Emodel = () => {
     property="og:description"
     content="평택 화양 서희스타힐스 E-모델하우스에서 세대 내부 공간과 평면 구성을 확인하세요."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/FloorPlan/Emodel" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/img/og/emodel.jpg" />
+  <meta property="og:url" content="https://www.leecols.kr/FloorPlan/Emodel" />
+  <meta property="og:image" content="https://www.leecols.kr/img/og/emodel.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -76,8 +76,8 @@ const Emodel = () => {
     name="twitter:description"
     content="평택 화양 서희스타힐스 E-모델하우스에서 세대 내부 공간과 모델하우스 정보를 확인하세요."
   />
-  <meta name="twitter:image" content="https://www.lotte-castl.co.kr/img/og/emodel.jpg" />
-  <meta name="twitter:url" content="https://www.lotte-castl.co.kr/FloorPlan/Emodel" />
+  <meta name="twitter:image" content="https://www.leecols.kr/img/og/emodel.jpg" />
+  <meta name="twitter:url" content="https://www.leecols.kr/FloorPlan/Emodel" />
 
   {/* JSON-LD (구조화데이터) */}
   <script type="application/ld+json">
@@ -85,20 +85,20 @@ const Emodel = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "평택 화양 서희스타힐스 - E-모델하우스",
-      "url": "https://www.lotte-castl.co.kr/FloorPlan/Emodel",
+      "url": "https://www.leecols.kr/FloorPlan/Emodel",
       "description":
         "평택 화양 서희스타힐스 E-모델하우스에서 세대 내부 공간과 평면 구성 정보를 확인할 수 있습니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.lotte-castl.co.kr/img/og/emodel.jpg",
+        "contentUrl": "https://www.leecols.kr/img/og/emodel.jpg",
         "width": 1200,
         "height": 630
       },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.lotte-castl.co.kr/" },
-          { "@type": "ListItem", "position": 2, "name": "E-모델하우스", "item": "https://www.lotte-castl.co.kr/FloorPlan/Emodel" }
+          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.leecols.kr/" },
+          { "@type": "ListItem", "position": 2, "name": "E-모델하우스", "item": "https://www.leecols.kr/FloorPlan/Emodel" }
         ]
       }
     })}

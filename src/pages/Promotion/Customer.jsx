@@ -73,7 +73,7 @@ export default function Customer() {
     content="평택 화양 서희스타힐스 관심고객 등록. 모델하우스 방문예약, 분양 일정, 단지 정보 등 최신 소식을 가장 먼저 받아보세요."
   />
   <meta name="robots" content="index,follow" />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/Promotion/Customer" />
+  <link rel="canonical" href="https://www.leecols.kr/Promotion/Customer" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
@@ -83,8 +83,8 @@ export default function Customer() {
     property="og:description"
     content="평택 화양 서희스타힐스 관심고객 등록을 통해 모델하우스 방문예약, 분양 일정 등 주요 정보를 받아보세요."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/Promotion/Customer" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/img/og/customer.jpg" />
+  <meta property="og:url" content="https://www.leecols.kr/Promotion/Customer" />
+  <meta property="og:image" content="https://www.leecols.kr/img/og/customer.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -95,8 +95,8 @@ export default function Customer() {
     name="twitter:description"
     content="평택 화양 서희스타힐스 관심고객 등록으로 분양 및 단지 관련 최신 정보를 받아보세요."
   />
-  <meta name="twitter:image" content="https://www.lotte-castl.co.kr/img/og/customer.jpg" />
-  <meta name="twitter:url" content="https://www.lotte-castl.co.kr/Promotion/Customer" />
+  <meta name="twitter:image" content="https://www.leecols.kr/img/og/customer.jpg" />
+  <meta name="twitter:url" content="https://www.leecols.kr/Promotion/Customer" />
 
   {/* JSON-LD */}
   <script type="application/ld+json">
@@ -104,20 +104,20 @@ export default function Customer() {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "평택 화양 서희스타힐스 - 관심고객등록",
-      "url": "https://www.lotte-castl.co.kr/Promotion/Customer",
+      "url": "https://www.leecols.kr/Promotion/Customer",
       "description":
         "평택 화양 서희스타힐스 관심고객 등록 페이지로 모델하우스 방문예약 및 분양 관련 정보를 제공합니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.lotte-castl.co.kr/img/og/customer.jpg",
+        "contentUrl": "https://www.leecols.kr/img/og/customer.jpg",
         "width": 1200,
         "height": 630
       },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.lotte-castl.co.kr/" },
-          { "@type": "ListItem", "position": 2, "name": "관심고객등록", "item": "https://www.lotte-castl.co.kr/Promotion/Customer" }
+          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.leecols.kr/" },
+          { "@type": "ListItem", "position": 2, "name": "관심고객등록", "item": "https://www.leecols.kr/Promotion/Customer" }
         ]
       }
     })}

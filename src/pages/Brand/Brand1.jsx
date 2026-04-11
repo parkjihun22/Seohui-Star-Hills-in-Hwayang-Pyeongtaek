@@ -56,7 +56,7 @@ const Brand1 = () => {
     name="description"
     content="평택 화양 서희스타힐스 브랜드 소개. 서희스타힐스의 주거 철학과 설계 가치, 쾌적한 단지 구성과 생활 중심 설계를 통해 새로운 주거 가치를 제시하는 평택 화양지구 아파트."
   />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/Brand/intro" />
+  <link rel="canonical" href="https://www.leecols.kr/Brand/intro" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -67,8 +67,8 @@ const Brand1 = () => {
     property="og:description"
     content="서희스타힐스 브랜드 소개. 실거주 중심 설계와 쾌적한 주거환경, 생활 편의성을 담은 평택 화양 서희스타힐스의 브랜드 가치를 소개합니다."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/Brand/intro" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/images/og/main.jpg" />
+  <meta property="og:url" content="https://www.leecols.kr/Brand/intro" />
+  <meta property="og:image" content="https://www.leecols.kr/images/og/main.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />

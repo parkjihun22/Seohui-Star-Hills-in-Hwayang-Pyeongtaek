@@ -68,7 +68,7 @@ const BusinessGuide1 = () => {
     content="평택 화양 서희스타힐스 사업안내. 평택 화양지구 중심 입지에 조성되는 아파트 단지로 위치, 규모, 주택형 구성 등 사업 개요 정보를 확인하세요."
   />
   <meta name="robots" content="index,follow" />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/BusinessGuide/intro" />
+  <link rel="canonical" href="https://www.leecols.kr/BusinessGuide/intro" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
@@ -78,8 +78,8 @@ const BusinessGuide1 = () => {
     property="og:description"
     content="평택 화양 서희스타힐스 사업안내. 평택 화양지구 중심 입지의 아파트 단지 위치와 규모, 주택형 등 사업 개요 정보를 확인하세요."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/BusinessGuide/intro" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/img/og/business.jpg" />
+  <meta property="og:url" content="https://www.leecols.kr/BusinessGuide/intro" />
+  <meta property="og:image" content="https://www.leecols.kr/img/og/business.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -90,8 +90,8 @@ const BusinessGuide1 = () => {
     name="twitter:description"
     content="평택 화양 서희스타힐스 사업 개요와 위치, 규모, 주택형 구성 정보를 확인하세요."
   />
-  <meta name="twitter:image" content="https://www.lotte-castl.co.kr/img/og/business.jpg" />
-  <meta name="twitter:url" content="https://www.lotte-castl.co.kr/BusinessGuide/intro" />
+  <meta name="twitter:image" content="https://www.leecols.kr/img/og/business.jpg" />
+  <meta name="twitter:url" content="https://www.leecols.kr/BusinessGuide/intro" />
 
   {/* JSON-LD */}
   <script type="application/ld+json">
@@ -99,20 +99,20 @@ const BusinessGuide1 = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "평택 화양 서희스타힐스 - 사업안내",
-      "url": "https://www.lotte-castl.co.kr/BusinessGuide/intro",
+      "url": "https://www.leecols.kr/BusinessGuide/intro",
       "description":
         "평택 화양지구 중심 입지에 조성되는 평택 화양 서희스타힐스의 위치, 규모, 주택형 구성 등 사업 개요 정보를 제공합니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.lotte-castl.co.kr/img/og/business.jpg",
+        "contentUrl": "https://www.leecols.kr/img/og/business.jpg",
         "width": 1200,
         "height": 630
       },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.lotte-castl.co.kr/" },
-          { "@type": "ListItem", "position": 2, "name": "사업안내", "item": "https://www.lotte-castl.co.kr/BusinessGuide/intro" }
+          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.leecols.kr/" },
+          { "@type": "ListItem", "position": 2, "name": "사업안내", "item": "https://www.leecols.kr/BusinessGuide/intro" }
         ]
       }
     })}

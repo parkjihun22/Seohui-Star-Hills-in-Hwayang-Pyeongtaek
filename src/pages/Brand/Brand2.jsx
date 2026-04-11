@@ -51,7 +51,7 @@ const Brand2 = () => {
     name="description"
     content="평택 화양 서희스타힐스 홍보영상. 화양지구 중심 입지와 단지 설계, 주거 환경과 미래 가치를 영상으로 확인하세요."
   />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/Brand/video" />
+  <link rel="canonical" href="https://www.leecols.kr/Brand/video" />
   <meta name="robots" content="index,follow" />
 
   {/* OG 태그 */}
@@ -62,8 +62,8 @@ const Brand2 = () => {
     property="og:description"
     content="평택 화양 서희스타힐스 홍보영상. 화양지구 중심 입지와 단지 설계, 주거 환경을 영상으로 만나보세요."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/Brand/video" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/images/og/main.jpg" />
+  <meta property="og:url" content="https://www.leecols.kr/Brand/video" />
+  <meta property="og:image" content="https://www.leecols.kr/images/og/main.jpg" />
 
   {/* Twitter */}
   <meta name="twitter:card" content="summary_large_image" />
@@ -72,7 +72,7 @@ const Brand2 = () => {
     name="twitter:description"
     content="평택 화양 서희스타힐스 홍보영상으로 화양지구의 주거 환경과 단지 가치를 확인하세요."
   />
-  <meta name="twitter:image" content="https://www.lotte-castl.co.kr/images/og/main.jpg" />
+  <meta name="twitter:image" content="https://www.leecols.kr/images/og/main.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />

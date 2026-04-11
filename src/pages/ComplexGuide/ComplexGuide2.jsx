@@ -57,7 +57,7 @@ const ComplexGuide1 = () => {
     name="description"
     content="평택 화양 서희스타힐스 동·호수 배치 안내. 단지 내 동별 위치와 호수 배치 구성을 확인하고 세대 배치 정보를 살펴보세요."
   />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/ComplexGuide/detailintro" />
+  <link rel="canonical" href="https://www.leecols.kr/ComplexGuide/detailintro" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -68,8 +68,8 @@ const ComplexGuide1 = () => {
     property="og:description"
     content="평택 화양 서희스타힐스 동·호수 배치도에서 단지 내 동별 위치와 세대 배치 구성을 확인하세요."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/ComplexGuide/detailintro" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/img/og/complex.jpg" />
+  <meta property="og:url" content="https://www.leecols.kr/ComplexGuide/detailintro" />
+  <meta property="og:image" content="https://www.leecols.kr/img/og/complex.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />

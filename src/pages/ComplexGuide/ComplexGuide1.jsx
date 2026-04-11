@@ -58,7 +58,7 @@ const ComplexGuide1 = () => {
     content="평택 화양 서희스타힐스 단지배치도 안내. 단지 내 동별 위치와 조경 계획, 커뮤니티 시설과 보행 동선을 확인하세요."
   />
   <meta name="robots" content="index,follow" />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/ComplexGuide/intro" />
+  <link rel="canonical" href="https://www.leecols.kr/ComplexGuide/intro" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
@@ -68,8 +68,8 @@ const ComplexGuide1 = () => {
     property="og:description"
     content="평택 화양 서희스타힐스 단지배치도. 단지 구성과 조경 계획, 커뮤니티 시설 위치를 확인하세요."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/ComplexGuide/intro" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/img/og/complex.jpg" />
+  <meta property="og:url" content="https://www.leecols.kr/ComplexGuide/intro" />
+  <meta property="og:image" content="https://www.leecols.kr/img/og/complex.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -80,8 +80,8 @@ const ComplexGuide1 = () => {
     name="twitter:description"
     content="평택 화양 서희스타힐스 단지배치도와 단지 구성, 조경 및 커뮤니티 계획을 확인하세요."
   />
-  <meta name="twitter:image" content="https://www.lotte-castl.co.kr/img/og/complex.jpg" />
-  <meta name="twitter:url" content="https://www.lotte-castl.co.kr/ComplexGuide/intro" />
+  <meta name="twitter:image" content="https://www.leecols.kr/img/og/complex.jpg" />
+  <meta name="twitter:url" content="https://www.leecols.kr/ComplexGuide/intro" />
 
   {/* JSON-LD */}
   <script type="application/ld+json">
@@ -89,12 +89,12 @@ const ComplexGuide1 = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "평택 화양 서희스타힐스 - 단지배치도",
-      "url": "https://www.lotte-castl.co.kr/ComplexGuide/intro",
+      "url": "https://www.leecols.kr/ComplexGuide/intro",
       "description":
         "평택 화양 서희스타힐스 단지배치도 페이지로 동별 위치와 조경, 커뮤니티 시설 등 단지 구성을 확인할 수 있습니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.lotte-castl.co.kr/img/og/complex.jpg",
+        "contentUrl": "https://www.leecols.kr/img/og/complex.jpg",
         "width": 1200,
         "height": 630
       },
@@ -105,13 +105,13 @@ const ComplexGuide1 = () => {
             "@type": "ListItem",
             "position": 1,
             "name": "홈",
-            "item": "https://www.lotte-castl.co.kr/"
+            "item": "https://www.leecols.kr/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "단지배치도",
-            "item": "https://www.lotte-castl.co.kr/ComplexGuide/intro"
+            "item": "https://www.leecols.kr/ComplexGuide/intro"
           }
         ]
       }

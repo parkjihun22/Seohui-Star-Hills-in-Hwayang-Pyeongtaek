@@ -102,7 +102,7 @@ const LocationEnvironment1 = () => {
     content="평택 화양 서희스타힐스 입지환경 안내. 평택 화양지구 중심 입지와 서해안고속도로 교통망, 안중 생활 인프라와 서평택 개발 미래가치를 확인하세요."
   />
   <meta name="robots" content="index,follow" />
-  <link rel="canonical" href="https://www.lotte-castl.co.kr/LocationEnvironment/intro" />
+  <link rel="canonical" href="https://www.leecols.kr/LocationEnvironment/intro" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
@@ -112,8 +112,8 @@ const LocationEnvironment1 = () => {
     property="og:description"
     content="평택 화양지구 중심 입지와 교통망, 생활 인프라를 확인할 수 있는 평택 화양 서희스타힐스 입지환경 안내."
   />
-  <meta property="og:url" content="https://www.lotte-castl.co.kr/LocationEnvironment/intro" />
-  <meta property="og:image" content="https://www.lotte-castl.co.kr/img/og/location.jpg" />
+  <meta property="og:url" content="https://www.leecols.kr/LocationEnvironment/intro" />
+  <meta property="og:image" content="https://www.leecols.kr/img/og/location.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -124,8 +124,8 @@ const LocationEnvironment1 = () => {
     name="twitter:description"
     content="평택 화양지구 중심 입지와 교통·생활 인프라를 확인할 수 있는 평택 화양 서희스타힐스 입지환경."
   />
-  <meta name="twitter:image" content="https://www.lotte-castl.co.kr/img/og/location.jpg" />
-  <meta name="twitter:url" content="https://www.lotte-castl.co.kr/LocationEnvironment/intro" />
+  <meta name="twitter:image" content="https://www.leecols.kr/img/og/location.jpg" />
+  <meta name="twitter:url" content="https://www.leecols.kr/LocationEnvironment/intro" />
 
   {/* JSON-LD */}
   <script type="application/ld+json">
@@ -133,20 +133,20 @@ const LocationEnvironment1 = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "평택 화양 서희스타힐스 - 입지환경",
-      "url": "https://www.lotte-castl.co.kr/LocationEnvironment/intro",
+      "url": "https://www.leecols.kr/LocationEnvironment/intro",
       "description":
         "평택 화양지구 중심 입지와 교통망, 생활 인프라를 확인할 수 있는 평택 화양 서희스타힐스 입지환경 안내 페이지입니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.lotte-castl.co.kr/img/og/location.jpg",
+        "contentUrl": "https://www.leecols.kr/img/og/location.jpg",
         "width": 1200,
         "height": 630
       },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.lotte-castl.co.kr/" },
-          { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "https://www.lotte-castl.co.kr/LocationEnvironment/intro" }
+          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.leecols.kr/" },
+          { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "https://www.leecols.kr/LocationEnvironment/intro" }
         ]
       }
     })}

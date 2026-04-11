@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "평택 화양 서희스타힐스", url: "https://www.lotte-castl.co.kr/" },
+  { name: "평택 화양 서희스타힐스", url: "https://www.leecols.kr/" },
 ];
 
 const Footer = () => {
